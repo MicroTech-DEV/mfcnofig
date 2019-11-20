@@ -1,0 +1,4 @@
+{
+    "show_more_btn": true,
+    "more_btn_store_link": "market://details?id=live.wallpaper.livewall&referrer=utm_source%3Dfluid"
+}
